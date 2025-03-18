@@ -4,3 +4,5 @@ scikit-learn
 ipykernel
 seaborn
 matplotlib
+tensorflow
+keras
